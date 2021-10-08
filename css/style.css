@@ -524,6 +524,7 @@ footer {
   position: relative;
   float: right;
   padding: 0;
+  margin: auto;
 }
 .social-icon li {
   display: inline-block;
