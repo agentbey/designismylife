@@ -310,6 +310,14 @@ button.tablinks:hover,button.tablinks.active {
     text-align: center;
 }
 
+/* ABOUT */
+.img-circle {
+    width: 200px;
+    border-radius: 50%;
+    border: 8px solid #ffffff;
+    margin-bottom: 40px;
+    box-shadow: 0 0 20px rgb(0 0 0 / 20%);
+}
 
 /* WHO */
 #who .col {
