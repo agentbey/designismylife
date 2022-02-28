@@ -519,11 +519,6 @@ footer {
   color: #00aae7;
 }
 
-@media (max-width: 1024px)
-  .process-thumb {
-      min-height: 500px;
-  }
-}
 @media screen and (max-width:768px) {
   .flex-grid {
     display: block;
