@@ -20,7 +20,6 @@ h1 {
     font-size: 1.8rem;
     text-align: center;
     margin: 0;
-    font-weight: 300;
 }
 h2 {
     font-size: 1.2em;
@@ -518,6 +517,12 @@ footer {
   color: #00aae7;
 }
 
+@media screen and (max-width:1025px) {
+  .process-thumb {
+    min-height: 500px;
+  }
+}
+
 @media screen and (max-width:768px) {
   .flex-grid {
     display: block;
@@ -563,7 +568,11 @@ footer {
   .process-thumb {
     margin-bottom: 20px;
   }
+  .process-thumb {
+    min-height: 100%;
+  }
   #footer p {
     margin-bottom: 40px;
   }
+
 }
