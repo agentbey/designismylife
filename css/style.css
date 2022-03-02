@@ -146,7 +146,7 @@ color: #ffffff;
     list-style: none;
 }
 .custom-navbar {
-  padding: 60px;
+  padding: 40px;
   height: var(--headerHeight);
   z-index: 999;
   background: #fff;
@@ -243,7 +243,7 @@ section#contact {
   align-items: center;
   position: relative;
   text-align: center;
-  height: 640px;
+  height: 720px;
 }
 #home h1 {
     color: #ffffff;
