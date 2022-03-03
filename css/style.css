@@ -521,7 +521,8 @@ footer {
     min-height: 500px;
   }
   .home-info {
-    padding:80px;
+    margin: 80px;
+    padding: 0;
   }
 }
 
