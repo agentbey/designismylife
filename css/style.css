@@ -249,7 +249,6 @@ section#contact {
     font-size: 2.2em;
     line-height: 1.4em;
 }
-
 .home-info {
     width: 80%;
     margin: 0 auto;
@@ -257,7 +256,6 @@ section#contact {
     border-radius: 10px;
     padding: 60px;
 }
-
 .home-info h3 {
   color: #333333;
   font-size: 11px;
@@ -266,6 +264,8 @@ section#contact {
   text-transform: uppercase;
   margin: 40px 0;
 }
+.fadein { position:relative; width:1600px; height:720px; }
+.fadein img { position:absolute; left:0; top:0; }
 
 /* FEATURE */
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
@@ -520,6 +520,10 @@ footer {
   .process-thumb {
     min-height: 500px;
   }
+  .home-info {
+    padding: 0;
+    width:70%;
+  }
 }
 
 @media screen and (max-width:768px) {
@@ -549,7 +553,6 @@ footer {
   section {
     padding: 40px 20px;
   }
-
   #about .flex-grid .col:last-child {
     margin: 25px;
   }
