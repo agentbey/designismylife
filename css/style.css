@@ -405,7 +405,7 @@ section#client-list {
 
 /* TESTIMONIAL */
 #testimonial {
-    background: #0e1a20;
+    background: linear-gradient(to bottom left, #0E1A22 0%, #252139 100%);
 }
 #testimonial .col {
   margin: 0;
