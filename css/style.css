@@ -107,7 +107,7 @@ width: 100%;
 height: 100%;
 }
 .opacity-light{
-  opacity:.2
+  opacity:.3
 }
 img.center {
     display: block;
@@ -120,20 +120,24 @@ button.navbar-toggle:focus {
     outline: transparent;
 }
 .section-btn {
-    background: #ff5722;
+    background: #3D51BF;
     border: 0;
     border-radius: 50px;
     color: #ffffff;
     font-size: 14px;
     font-weight: 600;
+    text-align: center;
     letter-spacing: 1px;
     padding: 12px 30px;
     transition: 0.5s 0.2s;
     text-transform: uppercase;
+    margin: 40px auto;
+    width: 300px;
+    display: block;
 }
 .section-btn:hover,
 .section-btn:focus {
-background: #202020;
+background: #9c27b0;
 color: #ffffff;
 }
 
@@ -270,45 +274,19 @@ section#contact {
 .fadein img { position:absolute; left:0; top:0; }
 
 /* FEATURE */
-.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
-    display: block;
-    max-width: 100%;
-    height: auto;
+section#feature {
+    background: linear-gradient(to bottom left, #0E1A22 0%, #252139 100%);
+    color: #f3f3f3;
 }
-#feature a {
-  color: #3f51b5;
-  text-decoration: underline;
+#feature .col {
+    padding: 0 40px;
 }
-.feature-image {
-    margin: 40px 20px;
+#feature img {
+    box-shadow: 0px -100px 100px 0px rgb(128 128 128 / 12%);
+    border-radius: 10px;
+    margin-bottom: 80px;
 }
-button.tablinks {
-    color: #3f51b5;
-    border: 0;
-    border: 2px solid #3f51b5;
-    background: #ffffff;
-    border-radius: 50%;
-    font-size: 14px;
-    font-weight: 600;
-    padding: 5px;
-    text-transform: uppercase;
-    margin: 0 20px 0 0;
-    width: 30px;
-    height: 30px;
-    line-height: 10px;
-}
-button.tablinks:focus {
-    border: 0;
-    outline: none;
-}
-button.tablinks:hover,button.tablinks.active {
-    background: #3f51b5;
-    color: #ffffff;
-}
-.tabs-content {
-    margin: 40px 0;
-    text-align: center;
-}
+#feature p{color:#f3f3f3;letter-spacing: .03em;}
 
 /* ABOUT */
 .img-circle {
@@ -382,7 +360,6 @@ section#client-projects {
     margin: 40px 10px;
     padding: 0;
 }
-
 
 /* CLIENTS */
 section#client-list {
