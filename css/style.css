@@ -23,7 +23,7 @@ h1 {
     line-height: 1.4em;
     text-align: center;
     margin: 0;
-    font-weight: 600;
+    font-weight: 900;
 }
 h2 {
     font-size: 1.2em;
@@ -434,12 +434,7 @@ section#client-projects {
 section#client-list {
     background: #ffffff;
 }
-#client-list .col {
-    text-align: center;
-    margin: 40px 0;
-    text-transform: uppercase;
-}
-#client-list .col {
+#client-list .col.client {
     text-align: center;
     margin: 20px 15px;
     text-transform: uppercase;
@@ -447,6 +442,13 @@ section#client-list {
     padding: 10px;
     color: #290021;
     font-weight: 400;
+}
+#client-list .col {
+    margin: 0 20px;
+}
+#client-list  p {
+    text-align: justify;
+    margin: 0 20px 60px;
 }
 
 /* TESTIMONIAL */
