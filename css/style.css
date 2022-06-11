@@ -366,7 +366,7 @@ section#client-projects {
 #client-projects p {
     text-align: justify;
     color: #ffffff;
-    margin: 0 20px 60px ;
+    margin-bottom: 60px ;
 }
 #client-projects h1 {
     color: #ffffff;
