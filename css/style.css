@@ -313,10 +313,6 @@ section#feature {
 #who .col {
     margin: 0 20px;
 }
-#who p {
-  text-align: justify;
-}
-
 
 /* PROCESS */
 section#process {
@@ -364,7 +360,6 @@ section#client-projects {
     color:#ffffff;
 }
 #client-projects p {
-    text-align: justify;
     color: #ffffff;
     margin-bottom: 60px ;
 }
@@ -447,7 +442,6 @@ section#client-list {
     margin: 0 20px;
 }
 #client-list  p {
-    text-align: justify;
     margin-bottom: 60px;
 }
 
