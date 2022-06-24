@@ -429,20 +429,15 @@ section#client-projects {
 section#client-list {
     background: #ffffff;
 }
-#client-list .col.client {
-    text-align: center;
-    margin: 20px 15px;
-    text-transform: uppercase;
-    background: #f4f4f4;
-    padding: 10px;
-    color: #290021;
-    font-weight: 400;
-}
 #client-list .col {
     margin: 0 20px;
 }
 #client-list  p {
     margin-bottom: 60px;
+}
+.flex-grid.clients {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 /* TESTIMONIAL */
