@@ -439,6 +439,14 @@ section#client-list {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+#client-list img {
+    opacity: .5;
+    filter: grayscale(100%);
+}
+#client-list img:hover {
+    opacity: 1;
+    filter: grayscale(0%);
+}
 
 /* TESTIMONIAL */
 #testimonial {
