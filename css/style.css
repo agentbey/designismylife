@@ -261,18 +261,25 @@ section#contact {
   text-align: center;
   height: 720px;
 }
+#home::before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgba(0,0,0,0.6);
+  }
 #home h1 {
     color: #ffffff;
-    font-size: 2em;
-    line-height: 1.4em;
+    font-size: 5em;
+    line-height: .95em;
     text-align: center;
+    position: relative;
 }
 .home-info {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
-    background: #ff5722e8;
-    border-radius: 10px;
-    padding: 60px;
 }
 .home-info h3 {
   color: #333333;
