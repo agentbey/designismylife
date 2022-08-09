@@ -268,12 +268,12 @@ section#contact {
     right: 0px;
     bottom: 0px;
     left: 0px;
-    background-color: rgba(0,0,0,0.6);
+    background-color: rgba(37,33,57,0.7);
   }
 #home h1 {
     color: #ffffff;
-    font-size: 5em;
-    line-height: .95em;
+    font-size: 4.4em;
+    line-height: 1em;
     text-align: center;
     position: relative;
 }
