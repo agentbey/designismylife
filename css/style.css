@@ -20,7 +20,7 @@ h1,h2,h3,h4,h5,h6 {
 h1 {
     font-size: 2em;
     color: #e85c41;
-    line-height: 1.4em;
+    line-height: 1.1em;
     text-align: center;
     margin: 0;
     font-weight: 600;
@@ -109,19 +109,22 @@ background: #202020;
     transform: translateY(-50%);
     position: absolute;
 }
+section.navbar {
+    padding: 20px;
+}
 .section-title {
     padding: 0 20px 40px;
 }
 .overlay {
-background: #ffffff;
-opacity: 0.4;
-position: absolute;
-top: 0;
-right: 0;
-bottom: 0;
-left: 0;
-width: 100%;
-height: 100%;
+  background: #ffffff;
+  opacity: 0.4;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 .opacity-light{
   opacity:.3
@@ -167,14 +170,7 @@ color: #ffffff;
     padding: 40px;
     list-style: none;
 }
-.custom-navbar {
-  padding: 0;
-  height: var(--headerHeight);
-  z-index: 999;
-  background: #fbfbfd;
-  box-shadow: 0 0 13px rgba(197,197,197,.5);
-}
-.custom-navbar .navbar-brand {
+.navbar-brand {
   color: #36A9E1;
   font-size: 1.8rem;
   font-family: 'Montserrat', sans-serif;
@@ -330,7 +326,6 @@ section#who {
     margin: 0 40px;
 }
 #who h1 {
-    font-size: 2.2em;
     color: #e16847;
     line-height: 1em;
     text-align: center;
@@ -346,9 +341,6 @@ section#who {
 #process .section-title,
 #who .section-title {
   text-align: center;
-}
-#process .container {
-  max-width: 100%;
 }
 #process .col {
   margin: 0;
@@ -603,7 +595,7 @@ footer {
     padding: 40px 0;
   }
   #home h1 {
-    font-size: 1.6em;
+    font-size: 2em;
     padding: 0;
     position: relative;
     margin-bottom: 0;
@@ -613,27 +605,38 @@ footer {
     width: 90%;
   }
   section {
-    padding: 40px 20px;
+    padding: 80px 20px;
+  }
+  section.navbar {
+    padding: 40px;
+  }
+  section#testimonial {
+    padding: 80px 20px 40px;
+  }
+  section#client-list {
+    padding: 80px 20px 20px;
+  }
+  section#process {
+    padding: 80px 20px 40px;
+  }
+  section#contact {
+    padding: 80px 20px 0;
+  }
+  .section-title {
+    padding: 0 20px;
+  }
+  #who .col {
+    margin: 20px;
+  }
+  #process .col {
+    margin: 0;
+    padding: 20px;
+  }
+  #client-list .col {
+    margin: 0 80px;
   }
   #about .flex-grid .col:last-child {
     margin: 25px;
-  }
-  .card {
-    padding: 0;
-    margin: 0 0 40px;
-  }
-  .card:last-child {
-    margin: 40px 0 0;
-  }
-  .flex-grid.card img {
-    max-width: 100%;
-    padding: 30px 20px;
-  }
-  .process-thumb {
-    margin-bottom: 20px;
-  }
-  .process-thumb {
-    min-height: 100%;
   }
   #footer p {
     margin-bottom: 40px;
