@@ -567,7 +567,7 @@ footer {
   color: #00aae7;
 }
 
-@media screen and (max-width:1025px) {
+@media (max-width: 1024px) {
   section.navbar {
     padding: 20px 40px;
   }
@@ -588,7 +588,7 @@ footer {
   }
 }
 
-@media screen and (max-width:768px) {
+@media (max-width: 767px) {
   .flex-grid {
     display: block;
   }
