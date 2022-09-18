@@ -274,14 +274,16 @@ section#contact {
   }
 #home h1 {
     color: #ffffff;
-    font-size: 3.6em;
+    font-size: 3.2em;
     line-height: 1.1em;
-    text-align: center;
-    position: relative;
+    text-align: left;
+    margin-bottom: 80px;
 }
 .home-info {
     width: 100%;
     margin: 0 auto;
+    position: relative;
+    text-align: left;
 }
 .home-info h3 {
   color: #333333;
@@ -293,6 +295,26 @@ section#contact {
 }
 .fadein { position:relative; width:1600px; height:720px; }
 .fadein img { position:absolute; left:0; top:0; }
+
+.button {
+    background: #ff5722cc;
+    border-radius: 50px;
+    color: #ffffff;
+    font-size: 1.1em;
+    letter-spacing: .08em;
+    font-weight: 800;
+    padding: 14px 40px;
+    transition: 0.5s 0.2s;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.button a {
+  color:#ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+a.button:hover {
+    background: #35a9e1cc;
+}
 
 /* FEATURE */
 section#feature {
@@ -335,6 +357,7 @@ section#who {
 #who h2 {
   margin-top:40px;
  }
+
 
 /* PROCESS */
 #about .section-title,
@@ -586,6 +609,9 @@ footer {
     position: relative;
     padding: 80px 20px;
   }
+  .testimonial-info p {
+    font-size: 20px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -606,7 +632,7 @@ footer {
     font-size: 2em;
     padding: 0;
     position: relative;
-    margin-bottom: 0;
+    margin-bottom: 40px;
   }
   .home-info {
     padding: 20px;
@@ -649,5 +675,7 @@ footer {
   #footer p {
     margin-bottom: 40px;
   }
-
+  .button {
+      font-size: .9em;
+  }
 }
