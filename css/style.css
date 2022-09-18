@@ -595,7 +595,7 @@ footer {
     padding: 20px 40px;
   }
   #home {
-    height: 320px;
+    height: 480px;
     padding: 120px;
   }
   .home-info {
@@ -633,10 +633,12 @@ footer {
     padding: 0;
     position: relative;
     margin-bottom: 40px;
+    text-align: center;
   }
   .home-info {
     padding: 20px;
     width: 90%;
+    text-align: center;
   }
   section {
     padding: 80px 20px;
