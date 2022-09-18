@@ -261,7 +261,6 @@ section#contact {
   align-items: center;
   position: relative;
   text-align: center;
-  height: 720px;
 }
 #home::before {
     content: "";
@@ -595,8 +594,7 @@ footer {
     padding: 20px 40px;
   }
   #home {
-    height: 480px;
-    padding: 120px;
+    padding: 60px;
   }
   .home-info {
     padding: 40px 0;
@@ -625,7 +623,6 @@ footer {
     float: none;
   }
   #home {
-    height: 100%;
     padding: 40px 0;
   }
   #home h1 {
