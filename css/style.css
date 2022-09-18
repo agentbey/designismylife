@@ -62,7 +62,7 @@ p.author {
     text-transform: uppercase;
 }
 .container {
-    max-width: 1080px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 .flex-grid{
@@ -245,7 +245,7 @@ section#contact {
 
 /* HOME */
 #home .container {
-    max-width: 1100px;
+    max-width: 1200px;
 }
 #home {
   background: url('../images/home-bg.jpg') no-repeat center center;
@@ -275,7 +275,7 @@ section#contact {
 #home h1 {
     color: #ffffff;
     font-size: 3.6em;
-    line-height: 1.2em;
+    line-height: 1.1em;
     text-align: center;
     position: relative;
 }
@@ -568,8 +568,12 @@ footer {
 }
 
 @media screen and (max-width:1025px) {
-  .process-thumb {
-    min-height: 500px;
+  section.navbar {
+    padding: 20px 40px;
+  }
+  #home {
+    height: 320px;
+    padding: 120px;
   }
   .home-info {
     padding: 40px 0;
@@ -577,6 +581,10 @@ footer {
   }
   #home h1 {
     font-size: 2.6em;
+  }
+  section {
+    position: relative;
+    padding: 80px 20px;
   }
 }
 
