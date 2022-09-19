@@ -30,12 +30,6 @@ h2 {
     letter-spacing: .08em;
     text-transform: uppercase;
 }
-h3 {
-    font-size: 1.44em;
-    color: #3f51b5;
-    line-height: 1.6em;
-    text-align: center;
-}
 h4 {
     font-weight: 400;
     text-transform: uppercase;
@@ -54,12 +48,6 @@ li {
     font-size: 1.1em;
     font-weight: normal;
     letter-spacing: .02em;
-}
-p.author {
-    font-size: .8em;
-    text-align: center;
-    letter-spacing: 1px;
-    text-transform: uppercase;
 }
 .container {
     max-width: 1200px;
@@ -104,71 +92,16 @@ height: 8px;
 cursor: pointer;
 background: #202020;
 }
-.vertically-center {
-    top: 50%;
-    transform: translateY(-50%);
-    position: absolute;
-}
 section.navbar {
     padding: 20px;
 }
 .section-title {
     padding: 0 20px 40px;
 }
-.overlay {
-  background: #ffffff;
-  opacity: 0.4;
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-.opacity-light{
-  opacity:.3
-}
-img.center {
-    display: block;
-    margin: 20px auto 0;
-}
-.hidden{display:none}
-
-/* BUTTONS */
-button.navbar-toggle:focus {
-    outline: transparent;
-}
-.section-btn {
-    background: #ff5722;
-    border: 0;
-    border-radius: 50px;
-    color: #ffffff;
-    font-size: 14px;
-    font-weight: 600;
-    text-align: center;
-    letter-spacing: 1px;
-    padding: 12px 30px;
-    transition: 0.5s 0.2s;
-    text-transform: uppercase;
-    margin: 40px auto;
-    width: 300px;
-    display: block;
-}
-.section-btn:hover,
-.section-btn:focus {
-background: #9c27b0;
-color: #ffffff;
-}
 
 /*  MENU  */
 .navbar-header {
     text-align: center;
-}
-.nav {
-    margin: 0 auto;
-    padding: 40px;
-    list-style: none;
 }
 .navbar-brand {
   color: #36A9E1;
@@ -357,7 +290,6 @@ section#who {
   margin-top:40px;
  }
 
-
 /* PROCESS */
 #about .section-title,
 #process .section-title,
@@ -487,12 +419,6 @@ section#who {
 #testimonial h4 {
   color: #ffffff;
   padding-top: 20px;
-}
-.testimonial-image {
-  background: url('../images/testimonial-image.jpg') no-repeat center center;
-  background-size: cover;
-  width: 100%;
-  height: 65vh;
 }
 .testimonial-info .item {
   display: block;
