@@ -48,6 +48,11 @@ p {
   line-height: 1.6em;
   letter-spacing: .02em;
 }
+*::selection {
+    background: #e85c41;
+    color: #fff;
+    -webkit-text-fill-color: #fff;
+}
 li {
     line-height: 2.3em;
     color: #262626;
