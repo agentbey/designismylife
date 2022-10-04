@@ -1,20 +1,6 @@
-*, *::before, *::after {
-    box-sizing: inherit;
-}
-section {
-    display: block;
-}
 .spaced-section {
     background: #ffffff;
     padding: 0;
-}
-body {
-    display: grid;
-    grid-template-rows: auto auto 1fr auto;
-    grid-template-columns: 100%;
-    min-height: 100%;
-    transition: all .2s ease-in-out;
-    margin:0;
 }
 .media>*:not(.zoom,.deferred-media__poster-button), .media model-viewer {
     display: block;
