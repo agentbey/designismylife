@@ -29,10 +29,11 @@
 		<link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/collage.css">
+		<link rel="stylesheet" href="css/animate.min.css">
 
 		<link rel='icon' type='image/png' href='https://designismylife.com/favicon.png' />
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;800&amp;display=swap" rel="stylesheet">
-		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.googleafivepis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@600&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;800&amp;display=swap" rel="stylesheet">
@@ -59,7 +60,7 @@
     <div class="container">
 			<div class="flex-grid">
 				<div class="col">
-             <div class="home-info">
+             <div class="home-info wow slideInLeft" style="visibility: visible; animation-name: slideInLeft;" >
                   <h1>Building Positive Experiences to Drive Customer Loyalty and Business Growth</h1>
 									<a href="#who" class="button smoothScroll">Discover More ➔</a>
              </div>
@@ -464,6 +465,19 @@
 					}
 			})
 		</script>
+		<script type="text/javascript" src="js/wow.min.js"></script>
+		<script>
+		  wow = new WOW(
+		      {
+		      boxClass:     'wow',      // default
+		      animateClass: 'animated', // default
+		      offset:       150,          // default
+		      mobile:       true,       // default
+		      live:         true        // default
+		    }
+		    )
+		    wow.init();
+		  </script>
 		<script data-ad-client="ca-pub-6256085404399258" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </body>
 </html>
