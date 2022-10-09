@@ -463,29 +463,30 @@
 					}
 			})
 		</script>
-		<script type="text/javascript" src="js/wow.min.js"></script>
-		  <script>
-		  wow = new WOW(
-		      {
-		      boxClass:     'wow',      // default
-		      animateClass: 'animated', // default
-		      offset:       0,          // default
-		      mobile:       true,       // default
-		      live:         true        // default
-		    }
-		    )
-		    wow.init();
-		  </script>
-			<script>
-				window.addEventListener('scroll', function(e) {
-		      if( $(window).scrollTop() <= 0) {
-		        $('.wow').removeClass('animated');
-		        $('.wow').removeAttr('style');
-		        new WOW().init();
-		      }
-		    });
-			</script>
 
+		<script type="text/javascript" src="js/wow.min.js"></script>
+		
+	  <script>
+	  wow = new WOW(
+	      {
+	      boxClass:     'wow',      // default
+	      animateClass: 'animated', // default
+	      offset:       0,          // default
+	      mobile:       true,       // default
+	      live:         true        // default
+	    }
+	    )
+	    wow.init();
+	  </script>
+		<script>
+			window.addEventListener('scroll', function(e) {
+	      if( $(window).scrollTop() <= 0) {
+	        $('.wow').removeClass('animated');
+	        $('.wow').removeAttr('style');
+	        new WOW().init();
+	      }
+	    });
+		</script>
 		<script data-ad-client="ca-pub-6256085404399258" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </body>
 </html>
