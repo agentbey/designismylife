@@ -453,6 +453,16 @@ section#who {
   -webkit-transition-delay: 0.35s;
   transition-delay: 0.35s;
 }
+.caption h3 {
+    color: #fff;
+    bottom: 0;
+    right:0;
+    position: absolute;
+    font-size: 1em;
+    padding: 4px 20px;
+    background: #e85c41;
+    margin: 0;
+}
 
 /* CLIENTS */
 #client-list .col {
@@ -682,4 +692,5 @@ footer {
   .button {
       font-size: .9em;
   }
+  .caption h3 {display:none;}
 }
