@@ -292,7 +292,7 @@ section#contact {
     right: 0px;
     bottom: 0px;
     left: 0px;
-    background-color: #000000a8;
+    background-color: rgb(0 0 0 / 66%);
 }
 #home h1 {
     color: #ffffff;
