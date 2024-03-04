@@ -1,0 +1,3188 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          127.0193273,
+          37.5193836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-31T18:18:11Z",
+        "google_maps_url": "http://maps.google.com/?cid=9058220203776518737",
+        "location": {
+          "address": "South Korea, Republic of Korea Seoul, Gangnam-gu, Gangnam-daero, 207-2 652 KR 서울특별시 강남구 강남대로 652 신사스퀘어 2층",
+          "country_code": "KR",
+          "name": "Legume"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.9853711,
+          37.5641021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-31T18:13:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=511310778215117426",
+        "location": {
+          "address": "55 Myeongdong-gil, Jung-gu, Seoul, South Korea",
+          "country_code": "KR",
+          "name": "이혜경에스테(leefootface)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.9837209,
+          37.5634525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-31T18:12:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=1926271292901332520",
+        "location": {
+          "address": "UNESCO Nantes show, 26 Myeongdong-gil, Jung-gu, Seoul, South Korea",
+          "country_code": "KR",
+          "name": "Myeong Dong NANTA Theatre"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.9845205,
+          37.5641850
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-31T18:12:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=8885483277951457565",
+        "location": {
+          "address": "South Korea, Seoul, Jung-gu, Myeongdong 7-gil, 8 미래빌딩 4층",
+          "country_code": "KR",
+          "name": "Myeongdong Massage Korea Spa"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6858036,
+          10.7895623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-07T07:20:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=7728750035481204693",
+        "location": {
+          "address": "77B Lý Chính Thắng, Phường 8, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+          "country_code": "VN",
+          "name": "TPBank LiveBank Lý Chính Thắng Quận 3"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6865806,
+          10.7902888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-05T15:51:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=5429007087784648124",
+        "location": {
+          "address": "41 Lý Chính Thắng, Phường 8, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+          "country_code": "VN",
+          "name": "Tra My Saigon Hotel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.2436662,
+          16.0584456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-02T19:27:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=4939203222090327015",
+        "location": {
+          "address": "103 Tô Hiến Thành, Phước Mỹ, Sơn Trà, Đà Nẵng 50000, Vietnam",
+          "country_code": "VN",
+          "name": "U SPA & KOMBUCHA (유 스파) Best massage in Da Nang"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-04-29T06:42:12Z",
+        "google_maps_url": "http://maps.google.com/?q=10.791733,106.697866",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          100.5997849,
+          13.7258698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-04-21T17:48:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=6588534867759542218",
+        "location": {
+          "address": "52, 6 Soi Pridi Banomyong 26, Phra Khanong Nuea, Watthana, Bangkok 10110, Thailand",
+          "country_code": "TH",
+          "name": "Loft Thai Spa & Tea House - Sukhumvit 71"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          100.5069502,
+          13.7063707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-04-20T21:59:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=12962144198331141555",
+        "location": {
+          "address": "2068-2070 Wat Phraya Krai, Bang Kho Laem, Bangkok 10120, Thailand",
+          "country_code": "TH",
+          "name": "Yin Yang The Original Massage & Spa"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.4643300,
+          33.6398890
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-03-01T04:30:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=1753910226489075673",
+        "location": {
+          "address": "2300 Rental Car Center Pkwy, College Park, GA 30337, United States",
+          "country_code": "US",
+          "name": "Dollar Car Rental - Atlanta Hartsfield-jackson International A/p"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.3547920,
+          28.5533670
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-12-27T15:51:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=1315734877552991684",
+        "location": {
+          "address": "2101 E Colonial Dr, Orlando, FL 32803, United States",
+          "country_code": "US",
+          "name": "Loving Hut"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7349051,
+          35.5787778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-12-17T05:38:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=17869510272065539184",
+        "location": {
+          "address": "6-chōme-13 Ōmorikita, Ota City, Tokyo 143-0016, Japan",
+          "country_code": "JP",
+          "name": "Heiwajima Station"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.4930088,
+          17.3910093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-11-19T00:29:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=5398539319111431014",
+        "location": {
+          "address": "9FRV+C62, Kachiguda Station Rd, Parvarish Bagh Colony, Lingampally, Kachiguda, Hyderabad, Telangana 500027, India",
+          "country_code": "IN",
+          "name": "Jineshwardham - Shri Achalgachh Jain Temple"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-08-10T06:38:04Z",
+        "google_maps_url": "http://maps.google.com/?q=10.794364,106.689302",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-11-27T20:05:28Z",
+        "google_maps_url": "http://maps.google.com/?q=28.593285,77.250749",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.2104677,
+          47.4949239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-06-02T01:08:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=16124837547734639732",
+        "location": {
+          "address": "Hoodsport, WA 98548, United States",
+          "country_code": "US",
+          "name": "Big Creek Campground"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.9222490,
+          45.9922239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-05-23T20:45:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=11963060262101973978",
+        "location": {
+          "address": "781 Avenue A, Seaside, OR 97138, United States",
+          "country_code": "US",
+          "name": "LINE-X of Clatsop County"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-04-10T07:27:24Z",
+        "google_maps_url": "http://maps.google.com/?q=30.333495,-82.960172",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.0797668,
+          33.4677306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-03-21T20:59:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=17141630073672782493",
+        "location": {
+          "name": "MOORISH ROADSIDE RESCUE"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.7837561,
+          33.4171858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-03-10T15:23:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=10172950880556246738",
+        "location": {
+          "address": "2222 E Main St, Mesa, AZ 85213, United States",
+          "country_code": "US",
+          "name": "Camping World"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.1855834,
+          33.6658114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-03-07T05:02:19Z",
+        "google_maps_url": "http://maps.google.com/?cid=17970516266135798973",
+        "location": {
+          "address": "19801 N 59th Ave, Glendale, AZ 85308, United States",
+          "country_code": "US",
+          "name": "United States Postal Service"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-02-02T04:16:42Z",
+        "google_maps_url": "http://maps.google.com/?q=227+N+Peters+St,+New+Orleans,+LA+70130&ftid=0x8620a60d62e5c161:0xfbd66f536eab0431",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.4927147,
+          33.9094414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-12-30T05:51:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=5664196633114364563",
+        "location": {
+          "address": "1775 Cobb Pkwy SE ste c, Marietta, GA 30060, United States",
+          "name": "Advantage Auto Service"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.3387738,
+          33.9347264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-12-27T19:18:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=16407164342851637039",
+        "location": {
+          "address": "4776 Ashford Dunwoody Rd, Dunwoody, GA 30338, United States",
+          "country_code": "US",
+          "name": "Harbor Freight Tools"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.0146878,
+          34.0995182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-10-29T12:33:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=4039060386789189687",
+        "location": {
+          "address": "4488 B Commerce Dr, Buford, GA 30518, United States",
+          "country_code": "US",
+          "name": "Hyperbaric PHP"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.4876042,
+          33.8822287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-10-01T15:54:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=15761826767497414475",
+        "location": {
+          "address": "2350 Spring Rd SE, Smyrna, GA 30080, United States",
+          "country_code": "US",
+          "name": "Nam Dae Mun Farmers Market"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.4904684,
+          33.8433781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-10-01T15:51:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=10994154586121449224",
+        "location": {
+          "address": "4500 W Village Pl #1017, Smyrna, GA 30080, United States",
+          "country_code": "US",
+          "name": "L'Thai Organic Cuisine & Wine Bar (Smyrna)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.4646582,
+          33.9193200
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-10-01T15:37:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=16813785667752713412",
+        "location": {
+          "address": "1343 Terrell Mill Road SE #100, Marietta, GA 30067, United States",
+          "country_code": "US",
+          "name": "Advanced Clinics for Preventive Medicine"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.6242606,
+          33.3999438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-07-30T16:50:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=14405535407952532013",
+        "location": {
+          "address": "310 Fischer Rd, Sharpsburg, GA 30277, United States",
+          "country_code": "US",
+          "name": "Sam's Club"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.5921930,
+          33.3958800
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-07-30T16:48:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=12433700138889416071",
+        "location": {
+          "address": "304 City Cir #1500A, Peachtree City, GA 30269, United States",
+          "country_code": "US",
+          "name": "Simply Mac"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-02-14T10:11:29Z",
+        "google_maps_url": "http://maps.google.com/?q=13.033760,80.269916",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-01-28T21:23:52Z",
+        "google_maps_url": "http://maps.google.com/?q=4276+Glenhaven+Dr,+Decatur,+GA+30035&ftid=0x88f5abdbd2a35cd1:0x9a09997e59785157",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-01-21T15:04:21Z",
+        "google_maps_url": "http://maps.google.com/?q=Atlanta,+GA&ftid=0x88f5045d6993098d:0x66fede2f990b630b",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.1340889,
+          35.8406646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-01-17T04:09:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=4595056110957312964",
+        "location": {
+          "address": "Thomasville, NC 27360, United States",
+          "country_code": "US",
+          "name": "Vietnam Veterans Memorial Rest Area"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-12-25T09:05:41Z",
+        "google_maps_url": "http://maps.google.com/?q=13.148069,77.619696",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.2891534,
+          30.4493173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-11-05T22:13:20Z",
+        "google_maps_url": "http://maps.google.com/?cid=372191805526802354",
+        "location": {
+          "address": "707 Old Bainbridge Rd, Tallahassee, FL 32303, United States",
+          "country_code": "US",
+          "name": "HempLade Vegan Cafe + Juice Bar +"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.5782919,
+          31.1401377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-11-04T05:19:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=15610211571047954798",
+        "location": {
+          "address": "2990 Hwy 17, Brunswick, GA 31523, United States",
+          "country_code": "US",
+          "name": "Flying J Travel Center"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.6022252,
+          33.1939234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-11-01T21:29:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=13186398477329721630",
+        "location": {
+          "address": "113 Motel Dr, St George, SC 29477, United States",
+          "country_code": "US",
+          "name": "Flying J Travel Center"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.6663716,
+          33.4169900
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-31T21:40:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=6463030259893941156",
+        "location": {
+          "address": "2064 Homestead Rd, Bowman, SC 29018, United States",
+          "country_code": "US",
+          "name": "Pilot Travel Center"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-31T21:16:50Z",
+        "google_maps_url": "http://maps.google.com/?q=33.393496999999996,-80.673682",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.4385674,
+          37.4277380
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-29T21:19:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=18231214976753643394",
+        "location": {
+          "address": "7041 Jefferson Davis Hwy, Richmond, VA 23237, United States",
+          "country_code": "US",
+          "name": "BAPS Shri Swaminarayan Mandir"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.4565505,
+          37.6314048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-29T06:30:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=1826110565555902452",
+        "location": {
+          "address": "7901 Brook Rd, Richmond, VA 23227, United States",
+          "country_code": "US",
+          "name": "Walmart Supercenter"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.2336139,
+          39.4954348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-28T00:45:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=16737600976267572619",
+        "location": {
+          "address": "Aberdeen, MD 21001, United States",
+          "country_code": "US",
+          "name": "Rest Area"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          98.9844349,
+          18.8105902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-27T02:35:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=466704941127570860",
+        "location": {
+          "address": "269/1 Changpuak Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300, Thailand",
+          "country_code": "TH",
+          "name": "Vegetarian Food Ratsamitham Foundation"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.6864859,
+          39.6224096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-09T22:53:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=2759153046735954538",
+        "location": {
+          "address": "1551 Pulaski Highway and, Wellington Dr, Bear, DE 19701, United States",
+          "country_code": "US",
+          "name": "Royal Farms"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.0659514,
+          39.9360236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-08T21:00:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=2975086790325131921",
+        "location": {
+          "address": "5201 NJ-38, Merchantville, NJ 08109, United States",
+          "country_code": "US",
+          "name": "Sun Seng Supermarket"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.4851512,
+          39.6839841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-03T22:52:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=4561571390203801453",
+        "location": {
+          "address": "326 Slapes Corner, Carneys Point Township, NJ 08069, United States",
+          "country_code": "US",
+          "name": "Flying J Travel Center"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.3988814,
+          40.4584822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-07-24T02:42:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=4118876183846326697",
+        "location": {
+          "address": "290 NJ-18, East Brunswick, NJ 08816, United States",
+          "country_code": "US",
+          "name": "Walmart Supercenter"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.4438889,
+          40.4166667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-07-24T01:55:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=16730905766179291846",
+        "location": {
+          "address": "8n NJ Tpke, East Brunswick, NJ 08816, United States",
+          "country_code": "US",
+          "name": "Joyce Kilmer Service Area"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.6911502,
+          39.6621867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-07-21T00:39:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=10688073399736030190",
+        "location": {
+          "address": "520 JFK Memorial Hwy, Newark, DE 19702, United States",
+          "country_code": "US",
+          "name": "Delaware House Travel Plaza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-08T23:30:46Z",
+        "google_maps_url": "http://maps.google.com/?q=Calle+Gumersindo+Azc%C3%A1rate,+21,+28026+Madrid,+Spain&ftid=0xd4227b6d3b58a75:0x4cae50538c7e69ec",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-07T18:09:04Z",
+        "google_maps_url": "http://maps.google.com/?q=33.39188717716449,-7.564321272075176",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.6005309,
+          33.5932655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-06T17:19:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=5225987482915281812",
+        "location": {
+          "address": "400 Bd Mohammed V, Casablanca 20310, Morocco",
+          "country_code": "MA",
+          "name": "Pieces Electriques Et Mecaniques Pour Automobile"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.8340740,
+          34.0285294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-05T17:04:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=3915676391338309151",
+        "location": {
+          "address": "25H8+C97, Rabat, Morocco",
+          "country_code": "MA",
+          "name": "National Craft Museum"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.8365940,
+          34.0309880
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-05T17:02:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=11670429546949274918",
+        "location": {
+          "address": "25J7+99R, Rabat 10020, Morocco",
+          "country_code": "MA",
+          "name": "Bab Oudaia Gate"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.8350618,
+          34.0331506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-05T17:02:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=10149508750009553388",
+        "location": {
+          "address": "Av. Hassan II, Rabat, Morocco",
+          "country_code": "MA",
+          "name": "Kasbah of the Udayas"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.8353361,
+          34.0300583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-05T17:02:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=383298050563052921",
+        "location": {
+          "address": "25J7+2VF, Rabat, Morocco",
+          "country_code": "MA",
+          "name": "Andalusian Gardens"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.8343767,
+          34.0183799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-04T15:48:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=3229930032725370809",
+        "location": {
+          "address": "2598+965, Av. Allal Ben Abdellah, Rabat, Morocco",
+          "country_code": "MA",
+          "name": "Smoothie Frais"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.8315545,
+          34.0138719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-04T12:29:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=16230918342943099195",
+        "location": {
+          "address": "Av. Moulay Abdelaziz, Rabat, Morocco",
+          "country_code": "MA",
+          "name": "Museum of History and Civilizations"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.8320989,
+          34.0136201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-04T12:26:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=15973881480157310742",
+        "location": {
+          "address": "2579+C5R, Rabat, Morocco",
+          "country_code": "MA",
+          "name": "Palais de Justice"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.5224692,
+          34.0546364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-01T14:19:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=11607474769966213911",
+        "location": {
+          "address": "3F3H+V22, Moulay Idriss Zerhoun, Morocco",
+          "country_code": "MA",
+          "name": "Tombeau de Moulay Idriss 1er"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1411901,
+          38.7048800
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-04-29T08:45:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=9177546754758716040",
+        "location": {
+          "address": "R. Bernardino Costa 21 23, 1200-052 Lisboa, Portugal",
+          "country_code": "PT",
+          "name": "Zarzuela"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.1680748,
+          41.3822834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-04-15T12:04:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=16819260431745373019",
+        "location": {
+          "address": "C/ dels Àngels, 3, Ciutat Vella, 08001 Barcelona, Spain",
+          "country_code": "ES",
+          "name": "Veggie Garden"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-05T06:00:19Z",
+        "google_maps_url": "http://maps.google.com/?q=3.072167,101.752385",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-06-14T05:43:35Z",
+        "google_maps_url": "http://maps.google.com/?q=38,+Lebuh+Tye+Sin,+George+Town,+10300+George+Town,+Pulau+Pinang,+Malaysia&ftid=0x304ac3eb2d9e5813:0xff881d30122c6c3f",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-03-05T13:12:30Z",
+        "google_maps_url": "http://maps.google.com/?q=4+Ch%C3%A2u+Th%E1%BB%8B+V%C4%A9nh+T%E1%BA%BF,+M%E1%BB%B9+An,+Ng%C5%A9+H%C3%A0nh+S%C6%A1n,+%C4%90%C3%A0+N%E1%BA%B5ng,+Vietnam&ftid=0x3142177d12393875:0x2700f9c2dcb6d475",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-28T16:35:31Z",
+        "google_maps_url": "http://maps.google.com/?q=90+Nguy%E1%BB%85n+T%E1%BB%AD+Gi%E1%BA%A3n,+M%E1%BB%B9+An,+Ng%C5%A9+H%C3%A0nh+S%C6%A1n,+%C4%90%C3%A0+N%E1%BA%B5ng,+Vietnam&ftid=0x314219df34e5de8f:0x3c2405f215c42164",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6726449,
+          10.7711272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-06T10:14:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=12657526328751799070",
+        "location": {
+          "address": "711 Đ. Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
+          "country_code": "VN",
+          "name": "Nhà hàng chay Vajra"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.7284889,
+          10.7236955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-05T08:30:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=14196537235455370324",
+        "location": {
+          "address": "45 Đường C, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+          "country_code": "VN",
+          "name": "Nhà Hàng Chay Đóa Sen Vàng"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-04T07:41:21Z",
+        "google_maps_url": "http://maps.google.com/?q=185/D+C%E1%BB%91ng+Qu%E1%BB%B3nh,+Nguy%E1%BB%85n+C%C6%B0+Trinh,+Qu%E1%BA%ADn+1,+H%E1%BB%93+Ch%C3%AD+Minh,+Vietnam&ftid=0x31752f178b7963c7:0x4c4d44ecf71dc090",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6844662,
+          10.7715209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-03T09:10:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=14233020189490561098",
+        "location": {
+          "address": "361/27 Nguyễn Đình Chiểu, Phường 5, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+          "country_code": "VN",
+          "name": "Nguyen Huong Buddhist Temple"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6807390,
+          10.7714869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-03T08:56:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=2290036821081743065",
+        "location": {
+          "address": "96 Đ. Cao Thắng, Phường 4, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+          "country_code": "VN",
+          "name": "Aeon Citimart"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6838332,
+          10.7721011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-28T12:40:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=13138227593218528871",
+        "location": {
+          "address": "492 Nguyễn Đình Chiểu, Phường 4, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+          "country_code": "VN",
+          "name": "Giác Đức Vegetarian Eatery"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-28T12:40:25Z",
+        "google_maps_url": "http://maps.google.com/?q=27+S%E1%BB%91+2+c%C6%B0+x%C3%A1%C2%B8+%C4%90%C3%B4+Th%C3%A0nh,+C%C6%B0+x%C3%A1+%C4%90%C3%B4+Th%C3%A0nh,+ph%C6%B0%E1%BB%9Dng+4,+Qu%E1%BA%ADn+3,+H%E1%BB%93+Ch%C3%AD+Minh,+Vietnam&ftid=0x31752f214722c3c3:0x8424ffb4c47b0140",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6947268,
+          10.7926593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T11:39:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=6315316101733550161",
+        "location": {
+          "address": "38 Đ. Trần Quang Khải, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+          "country_code": "VN",
+          "name": "A Di Da Phat Vegan Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-20T06:09:22Z",
+        "google_maps_url": "http://maps.google.com/?q=152/11+L%C3%BD+Ch%C3%ADnh+Th%E1%BA%AFng,+ph%C6%B0%E1%BB%9Dng+14,+Qu%E1%BA%ADn+3,+H%E1%BB%93+Ch%C3%AD+Minh,+Vietnam&ftid=0x31752f2c3949678b:0x23c54a412b9cf38d",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6845207,
+          10.8004915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-17T21:34:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=9332604011856405537",
+        "location": {
+          "address": "430 Phan Xích Long, Phường 2, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam",
+          "country_code": "VN",
+          "name": "Com Chay 27 - Vegetarian Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6921103,
+          10.7787591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-17T21:33:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=2394836574591435478",
+        "location": {
+          "address": "32 Võ Văn Tần, Phường 6, Quận 3, Thành phố Hồ Chí Minh 70000, Vietnam",
+          "country_code": "VN",
+          "name": "Hum, Cafe & Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6897700,
+          10.7926957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-17T21:31:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=5217099305897918705",
+        "location": {
+          "address": "11 Đ. Trần Nhật Duật, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+          "country_code": "VN",
+          "name": "Nhà hàng Chay Việt An"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6982830,
+          10.7917220
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-17T21:31:37Z",
+        "google_maps_url": "http://maps.google.com/?cid=16154516608816454508",
+        "location": {
+          "address": "63 Đ. Mai Thị Lựu, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+          "country_code": "VN",
+          "name": "Loving Hut Hoa Dang Vegetarian Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6864058,
+          10.7780076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-17T15:18:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=7879675335981184785",
+        "location": {
+          "address": "89 Bà Huyện Thanh Quan, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 70000, Vietnam",
+          "country_code": "VN",
+          "name": "Xa Loi Buddhist Temple"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          98.9764475,
+          18.7766934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-09-05T14:47:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=17983840239998355820",
+        "location": {
+          "address": "42 Mahidol Rd, Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+          "country_code": "TH",
+          "name": "ชมรมมังสวิรัติ เชียงใหม่ Chiang Mai Vegetarian society"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.8388490,
+          1.2944359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-07-21T04:27:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=27179737738734961",
+        "location": {
+          "address": "17-19 Kim Yam Rd, Singapore 239329",
+          "country_code": "SG",
+          "name": "The Singapore Buddhist Lodge"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          98.9956540,
+          18.8059859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-06-22T18:35:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=11511114691515616006",
+        "location": {
+          "address": "46, อาคารโซน C, Atsadathon Rd, Si Phum Sub-district, Mueang Chiang Mai District, Chiang Mai 50300, Thailand",
+          "country_code": "TH",
+          "name": "Jing Jai Market Chiang Mai"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          98.9967640,
+          18.7994946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-06-22T18:33:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=11173125902413757209",
+        "location": {
+          "address": "45/6 Muang Samut Rd, ตำบลช้างม่อย Mueang Chiang Mai District, Chiang Mai 50300, Thailand",
+          "country_code": "TH",
+          "name": "Kuan Im Foundation"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          98.9987861,
+          18.7964702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-06-22T18:33:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=5091561764398271860",
+        "location": {
+          "address": "98, 9 Chiang Mai Soi 3, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50300, Thailand",
+          "country_code": "TH",
+          "name": "Mueang Mai Market"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          98.9672611,
+          18.8022477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-06-22T18:30:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=2634136185446806142",
+        "location": {
+          "address": "55 หมู่ที่ 5 Huay Kaew Rd, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300, Thailand",
+          "country_code": "TH",
+          "name": "MAYA Lifestyle Shopping Center"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          98.9846115,
+          18.8044853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-06-22T18:28:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=5114455481968313788",
+        "location": {
+          "address": "Siriwattana Market 193 Changpuak Rd, Tambon Chang Phueak, เมือง Chiang Mai 50300, Thailand",
+          "country_code": "TH",
+          "name": "Siri-wattana Market (Tha-nin Market)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          98.9843225,
+          18.7946789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-06-12T04:31:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=3148667615675779444",
+        "location": {
+          "address": "1/4 ถนน Sripoom ซอย สิโรรส 7 Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+          "country_code": "TH",
+          "name": "Green Tiger House - Plant-Based Hotel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          98.9836045,
+          18.7885167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-05-29T03:35:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=9605859106658917611",
+        "location": {
+          "address": "98 Rachadamnoen Rd Soi 4, Si Phum Sub-district, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+          "country_code": "TH",
+          "name": "Ming Kwan Vegetarian Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.5715710,
+          12.9731759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-05-21T23:27:20Z",
+        "google_maps_url": "http://maps.google.com/?cid=16108130866194340939",
+        "location": {
+          "address": "Akkipete Main Road,Chickpete, Old Taluk Cutchery Rd, Upparpete, Cottonpete, Bengaluru, Karnataka 560053, India",
+          "country_code": "IN",
+          "name": "Dargah Hazrat Tawakkal Shah Mastan Soharwardy Rehmatullah Dargah"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.8270133,
+          19.0541744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-05-14T18:01:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=8821811999660853507",
+        "location": {
+          "address": "Jenu Jenai, Off. Hill Road, Shop No. 1-5, Waroda Rd, Ranwar, Bandra West, Mumbai, Maharashtra 400050, India",
+          "country_code": "IN",
+          "name": "Birdsong Organic Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          75.8208661,
+          26.9024281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-05-12T04:15:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=5526852967385447005",
+        "location": {
+          "address": "1, Moti Doongri Rd, Anand Puri, Bees Dukan, Adarsh Nagar, Jaipur, Rajasthan 302007, India",
+          "country_code": "IN",
+          "name": "Moti Dungri Jain Dadabadi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-05-02T03:22:03Z",
+        "google_maps_url": "http://maps.google.com/?q=Kolanupaka,+Telangana&ftid=0x3bcb5e3147c18ceb:0x36785cea5356dc00",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          79.0378930,
+          17.6997213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-05-02T03:21:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=7979884526409221314",
+        "location": {
+          "address": "Shri Shwetambar Jain Tirth, near Shiv Mandir, Aler Mandal, Kolanupaka, Telangana 508101, India",
+          "country_code": "IN",
+          "name": "Kolanupaka Swetamber Jain Mandir"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-04-28T12:53:39Z",
+        "google_maps_url": "http://maps.google.com/?q=Rishikesh,+Uttarakhand&ftid=0x39093e67cf93f111:0xcc78804a6f941bfe",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          79.0556419,
+          12.2229192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-04-05T08:42:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=16888231844116062783",
+        "location": {
+          "address": "No. 79/1 Chengam Road, NH 66, near Ramana Ashramam, Tiruvannamalai, Tamil Nadu 606603, India",
+          "country_code": "IN",
+          "name": "Aakash inn"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.6437443,
+          12.3049740
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-04-04T11:09:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=6266268028434177766",
+        "location": {
+          "address": "Jhansi Rani Lakshmi Bai Rd, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570005, India",
+          "country_code": "IN",
+          "name": "SPOT ON Hotel Maharaja"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          79.0700000,
+          12.2288889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-31T18:23:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=10380703016461404003",
+        "location": {
+          "address": "63H9+HX5, Thiruvoodal St, Pavazhakundur, Tiruvannamalai, Tamil Nadu 606601, India",
+          "country_code": "IN",
+          "name": "Thiruvannamalai (Vegetables, Fruits, Groceries) Market - Thiruvannamalai District, Tamil Nadu, India"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          79.0567197,
+          12.2238142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-31T18:02:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=17958908684602045296",
+        "location": {
+          "address": "63F4+GMH, Chengam Road, NH 66, Thamarai Nagar, Tiruvannamalai, Tamil Nadu 606603, India",
+          "country_code": "IN",
+          "name": "Sri Ramanasramam"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.9831782,
+          12.2161981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-31T11:31:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=17362395527115137242",
+        "location": {
+          "address": "6X8M+F7F, Perumbakkam, SH 6A, Sevanthangal, Tamil Nadu 606603, India",
+          "country_code": "IN",
+          "name": "Dhamma Arunachala Vipassana Meditation Centre"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.6516325,
+          12.2964983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-31T07:07:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=3110144353008174447",
+        "location": {
+          "address": "101, Ganesh, Ganapathi Temple Rd, Agrahara, Ramachandra Agrahara, Mysuru, Karnataka 570004, India",
+          "country_code": "IN",
+          "name": "101 Ganapathi Temple"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-31T07:06:57Z",
+        "google_maps_url": "http://maps.google.com/?q=12.297754,76.652659",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.0945364,
+          19.8875953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-30T17:48:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=17120860362990563911",
+        "location": {
+          "address": "Konark, Odisha 752111, India",
+          "country_code": "IN",
+          "name": "Konark Sun Temple"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.4798540,
+          12.8563247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-29T12:54:19Z",
+        "google_maps_url": "http://maps.google.com/?cid=15980411442075107626",
+        "location": {
+          "address": "Jinnenahalli, Karnataka 573135, India",
+          "name": "The Holy Feet of Sri Gomatheswar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          75.8603318,
+          13.1629636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-29T10:58:37Z",
+        "google_maps_url": "http://maps.google.com/?cid=14387553718502114588",
+        "location": {
+          "address": "Belur, Karnataka 573115, India",
+          "country_code": "IN",
+          "name": "Shri Chennakeshava Swami Temple Beluru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.6577679,
+          12.3103275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-28T06:14:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=8564937183796615141",
+        "location": {
+          "address": "Chandragutha Road, Lashkar Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001, India",
+          "country_code": "IN",
+          "name": "Hotel Santhosh"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.6530442,
+          12.3048964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-28T05:57:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=15099087119771066948",
+        "location": {
+          "address": "8M33+X63, Agrahara, Chamrajpura, Mysuru, Karnataka 570004, India",
+          "country_code": "IN",
+          "name": "Shri Lakshmi Ramana Swamy Gudi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-28T05:38:23Z",
+        "google_maps_url": "http://maps.google.com/?q=Chamundi+Hill,+Mysuru,+Karnataka&ftid=0x3baf6fc973a6438b:0xa43b25e3e24d508b",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.5725625,
+          12.4224375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-28T05:37:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=10475296312388925106",
+        "location": {
+          "address": "CHCF+X2V, Krishnarajasagara, Karnataka 571607, India",
+          "country_code": "IN",
+          "name": "Brindavana Gardens"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.6515377,
+          12.3112261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-28T05:37:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=16898648382721115838",
+        "location": {
+          "address": "Shop No - 494 , Devaraj Market, Dhanavantri Rd, Mysuru, Karnataka 570001, India",
+          "country_code": "IN",
+          "name": "M D TOUSEEF VEGETABLES"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.6240143,
+          12.3249097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-26T10:59:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=13728198764005076124",
+        "location": {
+          "address": "12th Cross Rd, Gokulam 2nd Stage, Vani Vilas Mohalla, Mysuru, Karnataka 570002, India",
+          "country_code": "IN",
+          "name": "Anima Madhva Bhavan"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.6473117,
+          12.3046314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-23T15:33:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=12710906059443794392",
+        "location": {
+          "address": "8J3W+VW3, NS Road, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570004, India",
+          "country_code": "IN",
+          "name": "Mahalakshmi Kollapuradamma Devalaya"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-19T17:54:28Z",
+        "google_maps_url": "http://maps.google.com/?q=Kushalnagar,+Karnataka+571234&ftid=0x3ba509b87de46213:0xd2cd2b03ee3f011d",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.5715179,
+          13.0308448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-17T16:22:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=14079637701863721432",
+        "location": {
+          "address": "GREEN PATH ECO HOTEL, New BEL Rd, Seenappa Layout, Jaladarsini Layout, R.M.V. 2nd Stage, Bengaluru, Karnataka 560094, India",
+          "country_code": "IN",
+          "name": "The Green Path Eco Hotel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-14T18:12:12Z",
+        "google_maps_url": "http://maps.google.com/?q=Kalyan+Nagar,+Bengaluru,+Karnataka+560043&ftid=0x3bae172410545219:0x697fa808267930f8",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.6454048,
+          12.3162712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-01T07:30:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=4416480074901622870",
+        "location": {
+          "address": "Medar Block, Yadavagiri, Mysuru, Karnataka 570001, India",
+          "country_code": "IN",
+          "name": "Mysuru Junction"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-01T05:39:45Z",
+        "google_maps_url": "http://maps.google.com/?q=Mulshi,+Maharashtra+412108,+India&ftid=0x3bc2a10011f6844f:0xd43c84d1dd681cbd",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-29T19:08:16Z",
+        "google_maps_url": "http://maps.google.com/?q=Uttarakhand,+India&ftid=0x3909dcc202279c09:0x7c43b63689cc005",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.7068131,
+          13.1989089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-25T03:23:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=2984884801773322638",
+        "location": {
+          "address": "KIAL Rd, Devanahalli, Bengaluru, Karnataka 560300, India",
+          "country_code": "IN",
+          "name": "Kempegowda International Airport Bengaluru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          73.8553640,
+          18.4999618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-23T08:09:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=2235152168535810064",
+        "location": {
+          "address": "Saras Baug Rd, opp. Jawaharlal Nehru Stadium Road, near Anand Mangal Karyalaya, Dadawadi, Pune, Maharashtra 411002, India",
+          "country_code": "IN",
+          "name": "Pune City Vipassana Centre"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          73.8455523,
+          18.4923665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-23T01:38:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=14304355192773241033",
+        "location": {
+          "address": "FRRW+W6V, Shahu College Admin Bldg, Nr Laxminagar, Sahakar Nagar, Nilayam Bridge, Parvati Darshan, Late Dadasaheb Dhomkar Path, Laxmi Nagar, Parvati Paytha, Pune, Maharashtra 411009, India",
+          "country_code": "IN",
+          "name": "The Art of Living"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          73.8500081,
+          18.4904067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-23T01:38:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=9453203588014499464",
+        "location": {
+          "address": "84/2, Darpan Sarang SOC, Sahakar Nagar, Parvati Paytha, Pune, Maharashtra 411009, India",
+          "country_code": "IN",
+          "name": "Relax Pure Veg"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.9435906,
+          8.4827779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-22T07:07:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=2103160921797566199",
+        "location": {
+          "address": "West Nada, Fort, East Fort, Pazhavangadi, Thiruvananthapuram, Kerala 695023, India",
+          "country_code": "IN",
+          "name": "Sree Padmanabhaswamy Temple"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-22T06:20:14Z",
+        "google_maps_url": "http://maps.google.com/?q=Parvati+Paytha,+Pune,+Maharashtra,+India&ftid=0x3bc2c007c7e37f75:0xf193a4fb3c63cc56",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          73.8561329,
+          18.5164297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-22T06:18:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=11381552789294988513",
+        "location": {
+          "address": "Ganpati Bhavan, 250, Chhatrapati Shivaji Maharaj Rd, Mehunpura, Budhwar Peth, Pune, Maharashtra 411002, India",
+          "country_code": "IN",
+          "name": "Shreemant Dagdusheth Halwai Ganpati Mandir"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-20T01:38:51Z",
+        "google_maps_url": "http://maps.google.com/?q=Gharapuri,+Maharashtra,+India&ftid=0x3be7c53036606fa7:0xebf6bb8a685cd5c7",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-17T07:29:54Z",
+        "google_maps_url": "http://maps.google.com/?q=Mysuru,+Karnataka+570001,+India&ftid=0x3baf70381d572ef9:0x2b89ece8c0f8396d",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.8269363,
+          19.1132545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-10T21:50:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=4919919421861907761",
+        "location": {
+          "address": "ISKCON Temple Hare Krishna Land, Juhu, Mumbai, Maharashtra 400049, India",
+          "country_code": "IN",
+          "name": "Govinda's Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.8265760,
+          19.1130160
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-10T21:50:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=493081063166512712",
+        "location": {
+          "address": "ISKCON®, Hare Krishna Land, Sri Mukteshwar Devalaya Rd, Marg, Sainath Nagar, MHADA Colony, Juhu, Mumbai, Maharashtra 400049, India",
+          "country_code": "IN",
+          "name": "ISKCON - Juhu"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          83.1207476,
+          25.2804370
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-10T05:49:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=10526564063235737769",
+        "location": {
+          "address": "232101 Pandit Dindayal Upadhyaya Marg Pandit Dindayal Upadhyay Nagar Uttaresh, 276001, India",
+          "country_code": "IN",
+          "name": "PT. Deen Dayal Upadhyaya Junction"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-10T05:44:42Z",
+        "google_maps_url": "http://maps.google.com/?q=Allahabad,+Uttar+Pradesh+211003,+India&ftid=0x398534c9b20bd49f:0xa2237856ad4041a",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-10T05:44:09Z",
+        "google_maps_url": "http://maps.google.com/?q=Jayapur,+Uttar+Pradesh,+India&ftid=0x398fceaa860f0851:0x6821266b778a1b74",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          83.0106783,
+          25.3108532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-10T05:42:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=5215184104416049939",
+        "location": {
+          "address": "Lahori Tola, Varanasi, Domari, Uttar Pradesh 221001, India",
+          "country_code": "IN",
+          "name": "Shri Kashi Vishwanath Temple"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-10T05:38:07Z",
+        "google_maps_url": "http://maps.google.com/?q=Bengaluru,+Karnataka+560001,+India&ftid=0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.8242221,
+          19.1180570
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-10T05:05:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=7981670739867089785",
+        "location": {
+          "address": "Jvpd Scheme, 10Th Road, Juhu, Mumbai - 400049, India",
+          "country_code": "IN",
+          "name": "Shiv Shankar Ganesh Temple, Juhu (North)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.8360837,
+          19.0684724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-10T05:05:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=16077799535181975604",
+        "location": {
+          "address": "3R9P+9CP, L. S. Raheja Rd, Khar, Khar West, Mumbai, Maharashtra 400052, India",
+          "country_code": "IN",
+          "name": "Sai Baba Temple"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.8234399,
+          19.0567445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-10T05:04:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=11038029139291724737",
+        "location": {
+          "address": "3R4F+M9W, Chimbai Rd, Chimbai Village, Bandra West, Mumbai, Maharashtra 400050, India",
+          "country_code": "IN",
+          "name": "Laxmi Narayan Temple"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.8443667,
+          19.0177255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-10T05:04:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=10478583967026477948",
+        "location": {
+          "address": "Dadar East, Dadar, Mumbai, Maharashtra 400014, India",
+          "country_code": "IN",
+          "name": "BAPS Shri Swaminarayan Mandir, Mumbai"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.8303997,
+          19.0169900
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-10T05:04:17Z",
+        "google_maps_url": "http://maps.google.com/?cid=11099096873971825713",
+        "location": {
+          "address": "SK Bole Rd, Prabhadevi, Mumbai, Maharashtra 400028, India",
+          "country_code": "IN",
+          "name": "Shree Siddhivinayak Temple"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9830799,
+          40.7414210
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-02-09T09:36:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=17654289667175173979",
+        "location": {
+          "address": "81 Lexington Ave, New York, NY 10016, United States",
+          "country_code": "US",
+          "name": "Saravanaa Bhavan"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.0206441,
+          14.5524957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-01-19T07:35:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=11296032270385283228",
+        "location": {
+          "address": "Ayala Center, Unit 93, Greenbelt 5, Legazpi Street, Makati, 1209 Metro Manila, Philippines",
+          "country_code": "PH",
+          "name": "Simply Thai"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.1915222,
+          40.0604267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-11-29T23:02:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=17919174516267950399",
+        "location": {
+          "address": "7224 Germantown Ave, Philadelphia, PA 19119, United States",
+          "country_code": "US",
+          "name": "Diverse Body Sculpturing Inc"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-27T04:00:35Z",
+        "google_maps_url": "http://maps.google.com/?q=Gujarat,+India&ftid=0x3959051f5f0ef795:0x861bd887ed54522e",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-27T03:08:13Z",
+        "google_maps_url": "http://maps.google.com/?q=Kolkata,+West+Bengal,+India&ftid=0x39f882db4908f667:0x43e330e68f6c2cbc",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-27T03:07:26Z",
+        "google_maps_url": "http://maps.google.com/?q=Chennai,+Tamil+Nadu,+India&ftid=0x3a5265ea4f7d3361:0x6e61a70b6863d433",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-27T03:06:59Z",
+        "google_maps_url": "http://maps.google.com/?q=Pune,+Maharashtra,+India&ftid=0x3bc2bf2e67461101:0x828d43bf9d9ee343",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-27T03:06:30Z",
+        "google_maps_url": "http://maps.google.com/?q=Agra,+Uttar+Pradesh,+India&ftid=0x39740d857c2f41d9:0x784aef38a9523b42",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-27T03:06:00Z",
+        "google_maps_url": "http://maps.google.com/?q=Jaipur,+Rajasthan,+India&ftid=0x396c4adf4c57e281:0xce1c63a0cf22e09",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-27T03:05:47Z",
+        "google_maps_url": "http://maps.google.com/?q=New+Delhi,+Delhi,+India&ftid=0x390cfd5b347eb62d:0x52c2b7494e204dce",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-27T03:05:24Z",
+        "google_maps_url": "http://maps.google.com/?q=Mumbai,+Maharashtra,+India&ftid=0x3be7c6306644edc1:0x5da4ed8f8d648c69",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.2155047,
+          28.6446910
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-04-17T16:00:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=3281344251032764701",
+        "location": {
+          "address": "8707, Desh Bandhu Gupta Rd, near Shiela cinema, Arya Nagar, Paharganj, New Delhi, Delhi 110055, India",
+          "country_code": "IN",
+          "name": "THE SINGH EMPIRE"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.1647095,
+          28.5087131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-04-17T10:14:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=15272909939703192155",
+        "location": {
+          "address": "of ILBS Hospital/Heritage School, 17 C, behind 2, near Gate No. 6, Bhawani Kunj, Vasant Kunj, New Delhi, Delhi 110070, India",
+          "country_code": "IN",
+          "name": "ANAND BHAWAN"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.2410203,
+          28.6561592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-04-04T16:37:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=4908416671633375995",
+        "location": {
+          "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+          "country_code": "IN",
+          "name": "Red Fort"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.1850159,
+          28.5148909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-04-04T16:34:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=16969982658322940819",
+        "location": {
+          "address": "G57P+X22, Aam Bagh, Ladha Sarai Village, Mehrauli, New Delhi, Delhi 110030, India",
+          "country_code": "IN",
+          "name": "Madhi Masjid مسجد"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.2334421,
+          28.6506792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-04-04T16:33:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=15949276658289057174",
+        "location": {
+          "address": "Jama Masjid, Old Delhi, Delhi, 110006, India",
+          "country_code": "IN",
+          "name": "Jama Masjid"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.6138575,
+          17.9634925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-03-03T17:41:19Z",
+        "google_maps_url": "http://maps.google.com/?cid=18390441913976469553",
+        "location": {
+          "address": "Mahosot Road, Vientiane, Laos",
+          "country_code": "LA",
+          "name": "Phetmanyxay Hotel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.7991500,
+          17.4001590
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-03-03T16:10:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=12979428462993707260",
+        "location": {
+          "address": "Mak Khaeng Sub-district, Mueang Udon Thani District, Udon Thani 41000, Thailand",
+          "country_code": "TH",
+          "name": "สมบัติอพาร์ทเม้นท์ หอพัก อุดรธานี - Sombat Apartment Udonthani"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2014-10-17T04:56:42Z",
+        "google_maps_url": "http://maps.google.com/?q=Tokaido, Midori-ku, Nagoya-shi, Aichi-ken 458-0004&ftid=0x6003634219822b23:0x3d29ce5c0701aad8",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.0005507,
+          35.1178064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2014-10-17T04:53:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=18134345388638501201",
+        "location": {
+          "address": "3 Chome-806 Nakahira, Tempaku Ward, Nagoya, Aichi 468-0014, Japan",
+          "name": "（株）ＮＤデザイン"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2014-09-26T10:38:38Z",
+        "google_maps_url": "http://maps.google.com/?q=Venice Hill Condominium & Golf Resort, Taman Puteri, 43200 Cheras, Selangor, Malaysia&ftid=0x31cc345d687784f1:0xbdde2842c1ec806",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          97.9631958,
+          19.3143596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2014-07-08T08:50:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=18363925696016623891",
+        "location": {
+          "address": "202, Moo 11, Tambon Pang Mu, Amphoe Mueang Mae Hong Son, Mae Hong Son, 58000, Thailand",
+          "country_code": "TH",
+          "name": "Mae Hong Son Immigration"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          98.9819495,
+          18.8079551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2013-11-04T08:09:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=17340453525177149512",
+        "location": {
+          "address": "39 Chediplong Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300, Thailand",
+          "country_code": "TH",
+          "name": "Wat Chiang Chom (Wat Chedi Plong)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.1668668,
+          41.3831913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=10303436591165373226",
+        "location": {
+          "address": "Plaça dels Àngels, 1, Ciutat Vella, 08001 Barcelona, Spain",
+          "country_code": "ES",
+          "name": "Barcelona Museum of Contemporary Art"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.1650636,
+          41.3629590
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=905045992266003156",
+        "location": {
+          "address": "Ctra. de Montjuïc, 66, Sants-Montjuïc, 08038 Barcelona, Spain",
+          "country_code": "ES",
+          "name": "Montjuïc Castle"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.1700471,
+          41.3870154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=2228369972992726603",
+        "location": {
+          "address": "Plaça de Catalunya, L'Eixample, 08002 Barcelona, Spain",
+          "name": "Plaça de Catalunya"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:01Z",
+        "google_maps_url": "http://maps.google.com/?q&ftid=0x12a4a292db1adc9d:0x8c42d20977c383a6",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:01Z",
+        "google_maps_url": "http://maps.google.com/?q&ftid=0x12a4a25f2da7a573:0x402e29e66d2f1965",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:01Z",
+        "google_maps_url": "http://maps.google.com/?q&ftid=0x12a4a2f57dbf2425:0x2600fae14082f042",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.8312645,
+          34.0178915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=18235990160962518385",
+        "location": {
+          "address": "à la jonction des 2 lignes de tramway، ساحة الجولان, Rabat, Morocco",
+          "country_code": "MA",
+          "name": "St. Peter's Cathedral"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.1619024,
+          41.3952155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=14168222595362004586",
+        "location": {
+          "address": "Pg. de Gràcia, 92, L'Eixample, 08008 Barcelona, Spain",
+          "country_code": "ES",
+          "name": "La Pedrera-Casa Milà"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:01Z",
+        "google_maps_url": "http://maps.google.com/?q&ftid=0x12a4a2f8901e0681:0xb7e57ec538cda7af",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:01Z",
+        "google_maps_url": "http://maps.google.com/?q&ftid=0x12a4a258081714c9:0x24bef7ac8842bdc4",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.1715853,
+          41.3817399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=9658750418627571157",
+        "location": {
+          "address": "La Rambla, 91, Ciutat Vella, 08001 Barcelona, Spain",
+          "country_code": "ES",
+          "name": "Mercado de La Boqueria"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1592661,
+          38.7147753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=3159153100309391505",
+        "location": {
+          "address": "Praça da Estrela 12, 1200-694 Lisboa, Portugal",
+          "country_code": "PT",
+          "name": "Jardim da Estrela"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1394297,
+          38.7121301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=16218724922182101372",
+        "location": {
+          "address": "R. do Ouro, 1150-060 Lisboa, Portugal",
+          "name": "Santa Justa Lift"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1538565,
+          38.7125529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "1970-01-01T00:00:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=11228960745928853928",
+        "location": {
+          "address": "Praça da Constituição de 1976, 1200-619 Lisboa, Portugal",
+          "country_code": "PT",
+          "name": "Palace of Saint Benedict / Assembly of the Republic"
+        }
+      },
+      "type": "Feature"
+    }
+  ]
+}
